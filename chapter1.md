@@ -1,3 +1,3 @@
-# First Chapter
+# 工具库
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+如果想成为一名极客，那么必须要擅长使用工具库，成为一名优秀的Java工程师也不例外。充分利用好的工具库，可以节约大量时间，并且可以学习其好的思想。
