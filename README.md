@@ -1,3 +1,8 @@
 # 进击的Java工程师
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+feel Programer world!
+----------------
+## find me：
+- 个人网站: [www.leihuang.org](http://www.leihuang.org)
+- Gmail: leihuang.org@gmail.com
+- QQ: 1522477973
