@@ -7,6 +7,8 @@
        * [基本工具](tool_library/guava/基本工具.md)
        * [集合](tool_library/guava/集合.md)
        * [缓存](tool_library/guava/缓存.md)
+       * [IO](tool_library/guava/字符串处理.md)
+       * [IO](tool_library/guava/并发.md)
 * [Java基础](java_base/README.md)
 * [架构知识](architecture/README.md)
 * [Jvm底层](jvm/README.md)
