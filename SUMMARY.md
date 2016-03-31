@@ -11,9 +11,9 @@
        * [并发](tool_library/guava/并发.md)
 * [Java基础](java_base/README.md)
 * [架构知识](architecture/README.md)
-   * [数据库设计](tool_library/database_design/README.md)
 * [Jvm底层](jvm/README.md)
 * [并发编程](concurrent/README.md)
 * [开源框架](open_source_framework/README.md)
 * [数据库](database/README.md)
+   * [数据库设计](database/database_design/README.md)
 
