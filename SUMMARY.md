@@ -10,7 +10,7 @@
        * [并发](tool_library/guava/并发.md)
 * [开源框架](framework/README.md)
    * [spring](framework/spring/README.md)
-       * [DI与AOP](framework/spring/DI与AOP.md)
+       * [依赖注入](framework/spring/依赖注入.md)
    * [mybatis](framework/mybatis/README.md)
 * [Java基础](java_base/README.md)
 * [架构知识](architecture/README.md)
